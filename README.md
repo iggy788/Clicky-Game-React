@@ -42,7 +42,7 @@ In this game, you'll play a memory game I made with React.
 │   │   │── css
 │   │   │   ├── materialize.css
 │   │   │   └── materialize.min.css
-│   │   │── fonts/robot
+│   │   │── fonts
 │   │   │   └── TBD
 │   │   └── js
 │   │   │   ├── materialize.js
