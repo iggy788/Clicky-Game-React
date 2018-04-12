@@ -35,7 +35,7 @@ Check out the [My Game](https://clicky-game.netlify.com/).
 │   │   │── css
 │   │   │   ├── materialize.css
 │   │   │   └── materialize.min.css
-│   │   │── fonts/robot
+│   │   │── fonts
 │   │   │   └── TBD
 │   │   └── js
 │   │   │   ├── materialize.js
