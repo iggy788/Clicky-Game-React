@@ -4,6 +4,9 @@
   "private": true,
   "dependencies": {
     "heroku-cli": "^6.15.13",
+    "husky": "^0.14.3",
+    "lint-staged": "^7.0.4",
+    "prettier": "^1.11.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.0.17",
