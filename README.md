@@ -3,22 +3,15 @@
 ## Overview
 
 In this game, you'll play a memory game I made with React.
+
+Check out the [My Game](https://clicky-game.netlify.com/).
 ### Instructions
 
-1. Check out the [My Game](https://clicky-game.netlify.com/).
+1. The application will keep track of your score. The score will be incremented when clicking an image for the first time. Your score will be reset to 0 if you click the same image more than once.
 
-2. Create a new React application using [Create React App](https://github.com/facebookincubator/create-react-app).
+2. Every time an image is clicked, the images rendered to the page will shuffle themselves in a random order.
 
-3. The application should render different images (of your choice) to the screen. Each image should listen for click events.
-
-4. The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
-
-5. Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
-
-6. Once the user's score is reset after an incorrect guess, the game should restart.
-
-7. When complete, the application should be deployed to Github Pages. See the README generated with Create React App for instructions on deploying the application to Github Pages.
-
+3. Once your score is reset after an incorrect guess, the game will restart.
 - - -
 ### App Structure
 ```
@@ -61,3 +54,5 @@ In this game, you'll play a memory game I made with React.
 │
 └── package.json
 ```
+### Finished Game
+![Jordan Game](././public/images/jordan_game.png)
