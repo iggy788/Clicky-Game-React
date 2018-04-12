@@ -55,4 +55,4 @@ Check out the [My Game](https://iggy788.github.io/Clicky-Game-React/).
 └── package.json
 ```
 ### Finished Game
-![Jordan Game](././public/images/jordan_game.png)
+![Jordan Game](././public/game.png)
